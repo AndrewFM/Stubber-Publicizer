@@ -1,0 +1,12 @@
+{
+	"outputReferenceStub": true,
+	"makeReferenceStubPublic": true,
+	"outputEditorStub": false,
+	"makeEditorStubPublic": false,
+	"outputForwardAssembly": false,
+	"outputPath": "",
+	"targetAssemblyPath": "",
+	"editorRenameTo": "",
+	"removeNonSerializedTypesForEditor": true,
+	"removeReadonly": false
+}

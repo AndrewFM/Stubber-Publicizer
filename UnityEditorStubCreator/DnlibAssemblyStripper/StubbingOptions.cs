@@ -25,6 +25,7 @@
         public FileOrDirectoryInfo[] inputContext;
         public DirectoryInfo outputDirectory;
         public FileOrDirectoryInfo[] outputContext;
+        public string outputPath;
     }
 
     [StructLayout(LayoutKind.Explicit)]
